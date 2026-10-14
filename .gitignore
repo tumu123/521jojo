@@ -1,0 +1,13 @@
+# 抓取与校验脚本
+*.py
+crawl_urls.json
+crawl_report.json
+crawl_log.txt
+*.png
+*.zip
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
